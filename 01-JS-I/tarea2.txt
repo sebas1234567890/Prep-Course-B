@@ -1,0 +1,7 @@
+variable: es asignarle un valor a algo 
+        por ejemplo 
+        var nombre = mati 
+
+        asi cada vez que le preguntamos ala consola por el NOMNRE nos dira que es MATI.
+        EL VALOR QUE LE ASIGNAMOS ALA VARIABLE 
+        
