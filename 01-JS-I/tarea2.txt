@@ -4,4 +4,23 @@ variable: es asignarle un valor a algo
 
         asi cada vez que le preguntamos ala consola por el NOMNRE nos dira que es MATI.
         EL VALOR QUE LE ASIGNAMOS ALA VARIABLE 
+
+
+
+string: las "string" son bloques de textos, siemrpe se define entre comillas.
+cualquier texto entre comillas es una cadena o un "string".
+
+
+
+booleans: significa que tienes dos opciones, activar o desactivar. 0 o 1, verdadero o falso.
+en javascript usamos booleans para significa verdadero o falso= TRUE O FALSE.
+
+
+undefined: es una variable vacia, tambien devuelve UNDEFINED si la variablea que se esta ejecutando no tiene valor.
+una funcion devuelve UNDEFINED si no se ha devuelto un valor.
+
+
+null: representa un valor nulo, vacio y no definido 
+
+operadores:
         
